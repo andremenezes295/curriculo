@@ -1,5 +1,5 @@
 # Your Website Title
-title: Melvin Ch'ng
+title: André Luiz A. de Menezes
 
 # Your Website URL
 url: 'http://andremenezes295.github.io'
@@ -18,13 +18,9 @@ pic: profile.png
 description: Estudante de Direito
 description_tiny: 'Centro Universitário de Cachoeirinha'
 email: andrelz.am295@gmail.com
-website: melvinchng.github.io # do not add http://
-linkedin: realmelvinchng
-github: melvinchng
-twitter: '@realmelvinchng'
-
-# Files or folders to be excluded
-exclude: [gitbook_source_code/]
+website: andremenezes295.github.io
+linkedin: andrelzam/
+github: andremenezes295
 
 # All the plugins for Jekyll
 plugins:
