@@ -14,7 +14,7 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: André Luiz A. de Menezes
 tagline: Estudante de Direito
-pic: profile.png
+pic: <img src="profile.png" alt="foto">
 description: Estudante de Direito
 description_tiny: 'Centro Universitário de Cachoeirinha'
 email: andrelz.am295@gmail.com
