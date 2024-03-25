@@ -1,28 +1,36 @@
-# Your Website Title
-title: André Luiz A. de Menezes
-
-# Your Website URL
-url: 'http://andremenezes295.github.io'
-
-# Leave it default
-baseurl: '' 
-
-# Google Analytics
-ga_index: UA-XXXXXXXX-X
-ga_cv: UA-XXXXXXXX-X
-
-# Index page and Profile Information
-name: André Luiz A. de Menezes
-tagline: Estudante de Direito
-pic: profile.png
-description: Estudante de Direito
-description_tiny: 'Centro Universitário de Cachoeirinha'
-email: andrelz.am295@gmail.com
-website: andremenezes295.github.io
-linkedin: andrelzam/
-github: andremenezes295
-
-# All the plugins for Jekyll
-plugins:
-  - jekyll-sitemap
-  - wdm
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Centered Website</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex; /* Flexbox for centering */
+      justify-content: center; /* Center content horizontally */
+      align-items: center; /* Center content vertically */
+      min-height: 100vh; /* Set minimum height for viewport */
+      background-color: #f0f0f0; /* Optional background color */
+    }
+    
+    .container {
+      text-align: center; /* Center text within container */
+    }
+    
+    img {
+      width: 200px; /* Adjust image width as needed */
+      height: auto; /* Maintain image aspect ratio */
+      margin-bottom: 20px; /* Add spacing below image */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://your-image-url.com/image.jpg" alt="Image description">
+    <h1>André Luiz A. de Menezes</h1>
+  </div>
+</body>
+</html>
